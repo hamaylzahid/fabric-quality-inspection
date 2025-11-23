@@ -230,7 +230,4 @@ jupyter notebook Defect_detection_system.ipynb
   🧵 Clone it, modify it, expand it — and build real-world automated defect detection solutions.
 </p>
 
-<p align="center">
-  This project is licensed under the <strong>MIT License</strong> — free to use, modify, and expand.<br>
-  ✅ <strong>Project Status:</strong> Complete & Portfolio-Ready
-</p>
+
